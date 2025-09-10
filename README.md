@@ -8,11 +8,11 @@
 ## References and Resources
 
 List any resources used here, or simply put `N/A` if not applicable.
-N/A
+Android Studio's website
 
 ## Verbal Collaboration
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| `student`    | `student` |
+| `Taylor Crawford`    | `ldcrawf1` |
 | `<Add more>` | `<CCID>`  |
